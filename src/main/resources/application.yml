@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+
+spring:
+  datasource:
+    username: root
+    password: Noah.1225
+    url: jdbc:mysql://localhost:3306/tasting_record
+
+
+redis:
+  port: 6379
+  host: localhost
+
+
+logging:
+  level:
+    com.example: debug
+  console:
+    enabled: true
