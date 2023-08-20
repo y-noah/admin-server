@@ -5,7 +5,7 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
 import com.example.adminserver.sys.mapper.WineMapper;
 import com.example.adminserver.sys.service.IWineService;
-import com.example.adminserver.sys.sys.entity.Wine;
+import com.example.adminserver.sys.entity.Wine;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

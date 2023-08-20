@@ -2,7 +2,7 @@ package com.example.adminserver.sys.controller;
 
 import com.example.adminserver.common.vo.Result;
 import com.example.adminserver.sys.service.IUserService;
-import com.example.adminserver.sys.sys.entity.User;
+import com.example.adminserver.sys.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.stereotype.Controller;

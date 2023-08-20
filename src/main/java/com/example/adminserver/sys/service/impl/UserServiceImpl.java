@@ -2,7 +2,7 @@ package com.example.adminserver.sys.service.impl;
 
 import com.alibaba.fastjson2.JSON;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
-import com.example.adminserver.sys.sys.entity.User;
+import com.example.adminserver.sys.entity.User;
 import com.example.adminserver.sys.mapper.UserMapper;
 import com.example.adminserver.sys.service.IUserService;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;

@@ -3,7 +3,7 @@ package com.example.adminserver.sys.controller;
 
 import com.example.adminserver.common.vo.Result;
 import com.example.adminserver.sys.service.IWineService;
-import com.example.adminserver.sys.sys.entity.Wine;
+import com.example.adminserver.sys.entity.Wine;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

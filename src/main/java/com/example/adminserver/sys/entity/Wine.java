@@ -1,4 +1,4 @@
-package com.example.adminserver.sys.sys.entity;
+package com.example.adminserver.sys.entity;
 
 
 import com.baomidou.mybatisplus.annotation.TableName;

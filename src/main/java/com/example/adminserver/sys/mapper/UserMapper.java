@@ -1,6 +1,6 @@
 package com.example.adminserver.sys.mapper;
 
-import com.example.adminserver.sys.sys.entity.User;
+import com.example.adminserver.sys.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
